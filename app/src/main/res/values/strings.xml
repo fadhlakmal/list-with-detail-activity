@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Makanan Indonesia</string>
+
+    <string name="heroes_name">Nama Makanan</string>
+    <string name="description">Deskripsi</string>
+    <string name="about">About</string>
+    <string name="about_name">Fadhl Akmal Madany</string>
+    <string name="about_email">akmal.madany1@gmail.com</string>
+
+    <string-array name="data_name">
+        <item>Rujak Cingur</item>
+        <item>Rawon Surabaya</item>
+        <item>Tahu Tek</item>
+        <item>Lontong Balap</item>
+        <item>Tahu Campur</item>
+        <item>Sate</item>
+        <item>Soto</item>
+        <item>Pecel</item>
+        <item>Bubur Ayam</item>
+        <item>Rendang</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Rujak Cingur adalah sajian kuliner yang berasal dari Jawa Timur, Indonesia, yang menggabungkan beragam unsur dalam harmoni rasa. Hidangan ini menghadirkan potongan daging cingur yang direbus dengan sempurna, memberikan tekstur kenyal dan lembut, yang kemudian disatukan dengan berbagai jenis buah-buahan segar seperti mangga, nanas, dan bengkuang yang memberikan sentuhan manis dan segar. Kombinasi unik ini dihidangkan dengan bumbu kacang pedas, menambahkan cita rasa gurih dan pedas yang menggugah selera. Rujak Cingur tidak hanya menciptakan perpaduan rasa yang kaya, tetapi juga menawarkan pengalaman makan yang beragam dalam setiap suapan, menggabungkan kenikmatan tekstur dan keanekaragaman rasa dalam setiap gigitan.</item>
+        <item>Rawon adalah hidangan khas Indonesia, khususnya Jawa Timur, yang menawarkan pengalaman rasa yang kaya dan mendalam. Kuahnya yang hitam pekat, hasil dari proses memasak rempah-rempah seperti kluwek, memberikan cita rasa gurih yang mendalam. Daging sapi yang dimasak hingga empuk, bersatu dengan kuah yang kaya, menghasilkan sensasi kenikmatan yang menghangatkan. Sajian ini sering disajikan dengan nasi putih, tauge, daun bawang, dan potongan kerupuk, menciptakan harmoni rasa dan tekstur yang unik. Rawon bukan hanya sekadar hidangan, tetapi juga mewakili warisan budaya Indonesia yang berusaha memikat selera dan hati setiap penikmatnya.</item>
+        <item>Tahu Tek adalah hidangan khas Indonesia, terutama dari Surabaya, yang menghadirkan harmoni rasa dan tekstur. Potongan tahu goreng yang garing dan lezat disajikan dengan lontong, sayuran segar seperti kacang panjang, tauge, dan mentimun, serta daging sapi rebus yang lembut. Semua bahan ini diberi sentuhan istimewa oleh bumbu kacang yang kaya rasa, saus petis yang khas, dan taburan bawang goreng. Tahu Tek memadukan kelezatan dan kesegaran dalam setiap suapan, menciptakan pengalaman kuliner yang memuaskan dan memikat lidah.</item>
+        <item>Lontong Balap adalah hidangan tradisional Surabaya, Indonesia, yang menggabungkan berbagai unsur dalam satu hidangan lezat. Lontong, nasi ketupat yang dikukus dalam daun pisang, disajikan dengan tauge yang segar, lentho (kerupuk tumbuk), serta tahu dan tempe goreng. Kelezatan Lontong Balap diperkaya oleh bumbu kacang yang gurih dan saus petis yang khas, menciptakan perpaduan rasa dan tekstur yang menggugah selera. Hidangan ini bukan hanya mengisi perut, tetapi juga membangkitkan kenangan akan cita rasa tradisional khas Jawa Timur.</item>
+        <item>Tahu Campur adalah hidangan khas Surabaya, Indonesia, yang menghadirkan kelezatan dan keanekaragaman rasa dalam setiap suapan. Tahu goreng yang garing dan lezat disajikan dengan lontong, daging sapi rebus yang lembut, tauge, dan lentho (kerupuk tumbuk). Semua bahan ini diberi cita rasa istimewa oleh bumbu kacang yang kaya dan saus petis yang khas. Tahu Campur menggabungkan sensasi rasa dan tekstur yang memuaskan, menciptakan pengalaman kuliner yang unik dan menggugah selera.</item>
+        <item>Sate adalah hidangan klasik Indonesia yang menggabungkan cita rasa dan seni dalam satu sajian. Potongan daging (seperti daging sapi, ayam, atau kambing) ditusuk pada tusuk sate, kemudian dipanggang atau dibakar hingga matang dan beraroma harum. Sate biasanya disajikan dengan bumbu kacang atau saus khas, serta dilengkapi dengan pelengkap seperti lontong, irisan bawang merah, dan kerupuk. Kombinasi sempurna antara daging yang empuk, bumbu yang kaya, dan sensasi menggigit dari tusuk sate menciptakan pengalaman makan yang tak terlupakan dan menggugah selera.</item>
+        <item>Soto adalah hidangan sup yang menggambarkan kekayaan rasa dan warisan kuliner Indonesia. Kuah kaldu yang lezat, dihasilkan dari rebusan daging (seperti ayam, sapi, atau kambing) dengan rempah-rempah khas, melingkupi potongan daging yang empuk, nasi, dan bahan-bahan pelengkap seperti tauge, telur rebus, dan kerupuk. Dalam setiap suapan, soto menyajikan rasa hangat dan bumbu yang meresap, menciptakan harmoni rasa antara rempah-rempah dan kelezatan daging, serta menawarkan pengalaman makan yang komprehensif dan memuaskan.</item>
+        <item>Pecel adalah hidangan tradisional Indonesia yang menghadirkan perpaduan antara keanekaragaman sayuran segar, cita rasa bumbu kacang yang khas, dan sensasi rasa yang memukau. Biasanya terdiri dari sayuran seperti kacang panjang, kangkung, dan tauge yang direbus atau direndam air panas, disajikan dengan bumbu kacang pedas yang lezat. Pecel sering disajikan bersama lontong atau nasi, serta kerupuk dan serundeng sebagai pelengkap, menciptakan harmoni rasa dan tekstur yang menggugah selera. Sajian ini tidak hanya mengutamakan kelezatan, tetapi juga merepresentasikan keberagaman budaya dan rasa Indonesia dalam setiap suapannya.</item>
+        <item>Bubur Ayam adalah hidangan khas Indonesia yang mengusung kehangatan dan kenyamanan dalam setiap sendokannya. Bubur nasi yang lembut disajikan dengan potongan daging ayam yang empuk, bawang goreng yang renyah, daun seledri yang segar, serta pelengkap seperti kerupuk dan telur rebus. Kuah kaldu yang gurih melingkupi bubur, menciptakan perpaduan rasa yang lezat dan menghangatkan. Bubur Ayam bukan hanya sekadar makanan, tetapi juga menghadirkan pengalaman makan yang menyenangkan dan penuh kenangan.</item>
+        <item>Rendang adalah hidangan ikonik Indonesia yang memukau dengan kekayaan rasa dan kelembutan dagingnya. Daging sapi yang dimasak perlahan dengan rempah-rempah khas seperti serai, lengkuas, dan daun jeruk menghasilkan potongan daging yang sangat empuk dan bumbu yang meresap hingga dalam. Kuah santan yang kental dan rempah yang mendalam menciptakan rasa gurih yang tak terlupakan, sementara lapisan kering bumbu yang mengelilingi daging memberikan sensasi karamelisasi yang nikmat. Rendang merefleksikan seni memasak Indonesia dan mengajak penikmatnya dalam perjalanan rasa yang memuaskan dan penuh kelezatan.</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>@drawable/rujakcingur</item>
+        <item>@drawable/rawon</item>
+        <item>@drawable/tahutek</item>
+        <item>@drawable/lontongbalap</item>
+        <item>@drawable/tahucampur</item>
+        <item>@drawable/sate</item>
+        <item>@drawable/soto</item>
+        <item>@drawable/pecel</item>
+        <item>@drawable/buburayam</item>
+        <item>@drawable/rendang</item>
+    </string-array>
+</resources>
